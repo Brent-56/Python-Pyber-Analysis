@@ -34,3 +34,9 @@ The results:
 
 - We are now going reset the index so we can use the pivot() function which will allow us to create a pivot table. 
 ![EA33822B-594E-45BD-A045-9A09A61C39CC](https://user-images.githubusercontent.com/112785655/216193758-4f9de9a1-5c0d-4eb0-b59b-4fe7f9349da1.jpeg)
+
+- Next I needed to create a pivot table with the 'date' as the index, the columns ='type', and values='fare' 
+to get the total fares for each type of city by the date. Since I reset the index above I was now allowed to use the pivot() 
+function. Results:
+![15E3728D-B8AE-43A5-A3D5-D95C5945D5E4](https://user-images.githubusercontent.com/112785655/216195422-17def36d-8cd3-4c13-9d0f-a7593e71cb47.jpeg)
+vot tables.
