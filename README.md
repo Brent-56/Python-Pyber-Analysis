@@ -24,3 +24,6 @@ The purpose of this data analysis is to identify ride sharing metrics/trends bas
 - Next I decided to make the dataframe more presentable by deleting the index name which in this case was'type'. I ran "pyber_summary_df.index.name = None" to complete the task and ran "pyber_summary_df" in the cell afterwards to see if it did as I intended. With everything aligned I was successfully able to delete the index name and the ending result came out to:
 ![E91F1316-7FB6-45EC-AEDC-89D33AA234DF](https://user-images.githubusercontent.com/112785655/216140311-f0be85b2-de89-46a8-b72c-44d7415bea36.jpeg)
 
+Next I changed the fomatting of the columns so the numbers are easier to read. We want to ensure the are dollar signs, commas, etc so we know what the number in the column is representing. I did this by specifying the data frame, specifying the column and specifying the format integrity of each column. The results: 
+![20664776-0EE8-4122-94C7-9986AA6080F1](https://user-images.githubusercontent.com/112785655/216142186-907876c2-b0ea-44b9-9544-26662276e052.jpeg)
+
