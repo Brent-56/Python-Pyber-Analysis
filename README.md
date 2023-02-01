@@ -30,7 +30,6 @@ The purpose of this data analysis is to identify ride sharing metrics/trends bas
 - For the second portion of the project I went in and created a new DataFrame showing the sum of the fares 
 for each date where the indices are the city type and date. To accomplish this I used a .groupby and a .sum function and specified .fare to_fame. 
 The results:
-![B7D30008-96C9-441A-A9A0-7FF4C3F845D8_1_105_c](https://user-images.githubusercontent.com/112785655/216177380-d35e2d56-be1f-45cf-bb1a-d3e5e78fe524.jpeg)
 
 
 
