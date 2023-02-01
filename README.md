@@ -33,3 +33,4 @@ The results:
 ![962EB3E5-7097-4E0A-8632-038CD9223C11](https://user-images.githubusercontent.com/112785655/216190125-f376badf-6eb8-4827-9dff-98cc1085360d.jpeg)
 
 - We are now going reset the index so we can use the pivot() function which will allow us to create a pivot table. 
+![EA33822B-594E-45BD-A045-9A09A61C39CC](https://user-images.githubusercontent.com/112785655/216193758-4f9de9a1-5c0d-4eb0-b59b-4fe7f9349da1.jpeg)
