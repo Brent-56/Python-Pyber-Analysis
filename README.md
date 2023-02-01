@@ -20,3 +20,7 @@ The purpose of this data analysis is to identify ride sharing metrics/trends bas
 - Once I gathered everything it was important to put all of our findings in a central location so viewers could see everything quickly and be able to conclude metrics from the dataset efficiently. I did this by putting all the metrics into a dictionary and using a key word to identify each metric. After that we converted it into a dataframe and printed the results as:
 
 ![0F77DE09-CF56-4586-8648-1A9E94417AC2](https://user-images.githubusercontent.com/112785655/216139273-6e1dd90b-3e10-487b-a496-c1e5bb011689.jpeg)
+
+- Next I decided to make the dataframe more presentable by deleting the index name which in this case was'type'. I ran "pyber_summary_df.index.name = None" to complete the task and ran "pyber_summary_df" in the cell afterwards to see if it did as I intended. With everything aligned I was successfully able to delete the index name and the ending result came out to:
+- ![E91F1316-7FB6-45EC-AEDC-89D33AA234DF](https://user-images.githubusercontent.com/112785655/216140311-f0be85b2-de89-46a8-b72c-44d7415bea36.jpeg)
+
