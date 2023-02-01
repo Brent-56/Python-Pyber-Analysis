@@ -22,7 +22,6 @@ The purpose of this data analysis is to identify ride sharing metrics/trends bas
 ![0F77DE09-CF56-4586-8648-1A9E94417AC2](https://user-images.githubusercontent.com/112785655/216139273-6e1dd90b-3e10-487b-a496-c1e5bb011689.jpeg)
 
 - Next I decided to make the dataframe more presentable by deleting the index name which in this case was'type'. I ran "pyber_summary_df.index.name = None" to complete the task and ran "pyber_summary_df" in the cell afterwards to see if it did as I intended. With everything aligned I was successfully able to delete the index name and the ending result came out to:
-![B7D30008-96C9-441A-A9A0-7FF4C3F845D8](https://user-images.githubusercontent.com/112785655/216143321-f03d0e0a-f806-46d4-b67f-b2631223fbbf.jpeg)
 ![CE0A9EE7-E597-48A5-9AAE-5124873F510D](https://user-images.githubusercontent.com/112785655/216143322-7f66e79c-4b00-454b-b870-ce1ab76d4dee.jpeg)
 
 
