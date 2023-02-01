@@ -27,3 +27,10 @@ The purpose of this data analysis is to identify ride sharing metrics/trends bas
 
 - Next I changed the fomatting of the columns so the numbers are easier to understand. We want to ensure there are dollar signs, commas, etc so we know what the number in the column is representing. I did this by specifying the dataframe, specifying the column and specifying the format integrity of each column. The results: ![2EA29FB9-AE7B-447D-87FD-E3A3233D5CA4](https://user-images.githubusercontent.com/112785655/216142372-f6e55a03-7392-479f-a82f-133dd563c573.jpeg)
 
+- For the second portion of the project I went in and created a new DataFrame showing the sum of the fares 
+for each date where the indices are the city type and date. To accomplish this I used a .groupby and a .sum function and specified .fare to_fame. 
+The results:
+![B7D30008-96C9-441A-A9A0-7FF4C3F845D8_1_105_c](https://user-images.githubusercontent.com/112785655/216177380-d35e2d56-be1f-45cf-bb1a-d3e5e78fe524.jpeg)
+
+
+
