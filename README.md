@@ -25,5 +25,5 @@ The purpose of this data analysis is to identify ride sharing metrics/trends bas
 ![CE0A9EE7-E597-48A5-9AAE-5124873F510D](https://user-images.githubusercontent.com/112785655/216143322-7f66e79c-4b00-454b-b870-ce1ab76d4dee.jpeg)
 
 
-Next I changed the fomatting of the columns so the numbers are easier to understand. We want to ensure there are dollar signs, commas, etc so we know what the number in the column is representing. I did this by specifying the dataframe, specifying the column and specifying the format integrity of each column. The results: ![2EA29FB9-AE7B-447D-87FD-E3A3233D5CA4](https://user-images.githubusercontent.com/112785655/216142372-f6e55a03-7392-479f-a82f-133dd563c573.jpeg)
+- Next I changed the fomatting of the columns so the numbers are easier to understand. We want to ensure there are dollar signs, commas, etc so we know what the number in the column is representing. I did this by specifying the dataframe, specifying the column and specifying the format integrity of each column. The results: ![2EA29FB9-AE7B-447D-87FD-E3A3233D5CA4](https://user-images.githubusercontent.com/112785655/216142372-f6e55a03-7392-479f-a82f-133dd563c573.jpeg)
 
