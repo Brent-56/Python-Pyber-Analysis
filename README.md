@@ -31,3 +31,5 @@ The purpose of this data analysis is to identify ride sharing metrics/trends bas
 for each date where the indices are the city type and date. To accomplish this I used a .groupby and a .sum function and specified .fare to_fame. 
 The results:
 ![962EB3E5-7097-4E0A-8632-038CD9223C11](https://user-images.githubusercontent.com/112785655/216190125-f376badf-6eb8-4827-9dff-98cc1085360d.jpeg)
+
+- We are now going reset the index so we can use the pivot() function which will allow us to create a pivot table. 
