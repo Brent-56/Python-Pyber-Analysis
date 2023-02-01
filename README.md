@@ -14,4 +14,4 @@ The purpose of this data analysis is to identify ride sharing metrics/trends bas
 
 ![91D21622-E864-4B99-94FC-743BB1320A3F](https://user-images.githubusercontent.com/112785655/216115044-320c746b-0f18-48d8-bc66-d1339ef4bb9e.jpeg)
 
-#3 We begin gathering metrics. 6 displays the number of drivers by city type. There we can see the number of drivers for rural cities is significantly less than that of Suburban and Urban city types. 
+- Next I began gathering metrics. 6 displays the number of drivers by city type. We can see the number of drivers for rural cities is significantly less than that of Suburban and Urban city types. With this information present it wouldnt surprise me if the customers in that area area utilizing the service less but the average price per ride is more expensive. 
