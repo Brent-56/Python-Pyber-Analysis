@@ -17,5 +17,6 @@ The purpose of this data analysis is to identify ride sharing metrics/trends bas
 ![ED8E877E-49D5-4CB1-A128-34E685E803CA](https://user-images.githubusercontent.com/112785655/216137765-72a085ef-f8b2-442a-9c09-0d42313e14ed.jpeg)
 ![E24267AE-2CB0-4C50-90F6-4931F7F0EA06](https://user-images.githubusercontent.com/112785655/216138100-590f32c8-c944-46b0-8e2e-a462e23495bc.jpeg)
 
-Once I gathered everything it was important to put all of our findings in a central location so viewers could see everything in one location and be able to conclude metrics from the dataset efficiently. I did this by putting all the metrics into a dictionary and using a key word to identify each metric. After that we converted it into a dataframe and printed the results as:
+- Once I gathered everything it was important to put all of our findings in a central location so viewers could see everything quickly and be able to conclude metrics from the dataset efficiently. I did this by putting all the metrics into a dictionary and using a key word to identify each metric. After that we converted it into a dataframe and printed the results as:
+
 ![0F77DE09-CF56-4586-8648-1A9E94417AC2](https://user-images.githubusercontent.com/112785655/216139273-6e1dd90b-3e10-487b-a496-c1e5bb011689.jpeg)
