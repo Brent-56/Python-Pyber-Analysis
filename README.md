@@ -35,7 +35,7 @@ The results:
 ![962EB3E5-7097-4E0A-8632-038CD9223C11](https://user-images.githubusercontent.com/112785655/216190125-f376badf-6eb8-4827-9dff-98cc1085360d.jpeg)
 
 - We are now going reset the index so we can use the pivot() function which will allow us to create a pivot table
-- . 
+
 ![EA33822B-594E-45BD-A045-9A09A61C39CC](https://user-images.githubusercontent.com/112785655/216193758-4f9de9a1-5c0d-4eb0-b59b-4fe7f9349da1.jpeg)
 
 - Next I needed to create a pivot table with the 'date' as the index, the columns ='type', and values='fare' 
@@ -47,4 +47,7 @@ function. After creating the pivot table we then need to create a new DataFrame 
 
 - Index datatype conversion confirmation
 - ![BF43610A-1191-4389-AC42-7BA8268E081F](https://user-images.githubusercontent.com/112785655/216200597-e0d32c93-6200-45c9-ab34-18927fea4a8a.jpeg)
+
+After I made the datetimme conversion I could now use the resample function properly. I needed to create a new DataFrame using the "resample()" function by week 'W' and get the sum of the fares for each week. Results:
+![E1EA401E-43CB-4848-8EE8-13C0A79F7617](https://user-images.githubusercontent.com/112785655/216204512-77c8956c-fb76-4a50-aa34-b24eaf46b4d5.jpeg)
 
