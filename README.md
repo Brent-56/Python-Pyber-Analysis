@@ -46,3 +46,5 @@ function. After creating the pivot table we then need to create a new DataFrame 
 ![8AEC393F-4FB3-4FEC-9A2F-19FF5DE2EA86](https://user-images.githubusercontent.com/112785655/216199690-bc85c381-f7c6-48fe-a4cc-a28462b3cb20.jpeg)
 
 - Index datatype conversion confirmation
+- ![BF43610A-1191-4389-AC42-7BA8268E081F](https://user-images.githubusercontent.com/112785655/216200597-e0d32c93-6200-45c9-ab34-18927fea4a8a.jpeg)
+
