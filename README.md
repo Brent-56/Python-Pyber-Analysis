@@ -14,6 +14,7 @@ The purpose of this data analysis is to identify ride sharing metrics/trends bas
 ![91D21622-E864-4B99-94FC-743BB1320A3F](https://user-images.githubusercontent.com/112785655/216115044-320c746b-0f18-48d8-bc66-d1339ef4bb9e.jpeg)
 
 - Next I began gathering metrics. The first metric is to discover the amount of rides per city type from January to April 2019. We can see the Rural city type has the least amount of total rides with 125 in 4 months. Secondly we display the number of drivers by city type. We can see the number of drivers for Rural cities is significantly less than that of Suburban and Urban city types. We then display the total amount of fares for each city type. Rural is significantly less than both Urban and Suburban once more. After this I calculate average price per ride for each city type. Rural is the most expensive as they have the least amount of available drivers and the least amount of fares. Finally we calculate the average fare per driver for eah city type and as estimated, Rural is still the highest average fare by driver price. 
+- 
 ![ED8E877E-49D5-4CB1-A128-34E685E803CA](https://user-images.githubusercontent.com/112785655/216137765-72a085ef-f8b2-442a-9c09-0d42313e14ed.jpeg)
 ![E24267AE-2CB0-4C50-90F6-4931F7F0EA06](https://user-images.githubusercontent.com/112785655/216138100-590f32c8-c944-46b0-8e2e-a462e23495bc.jpeg)
 
@@ -30,9 +31,11 @@ The purpose of this data analysis is to identify ride sharing metrics/trends bas
 - For the second portion of the project I went in and created a new DataFrame showing the sum of the fares 
 for each date where the indices are the city type and date. To accomplish this I used a .groupby and a .sum function and specified .fare to_fame. 
 The results:
+
 ![962EB3E5-7097-4E0A-8632-038CD9223C11](https://user-images.githubusercontent.com/112785655/216190125-f376badf-6eb8-4827-9dff-98cc1085360d.jpeg)
 
-- We are now going reset the index so we can use the pivot() function which will allow us to create a pivot table. 
+- We are now going reset the index so we can use the pivot() function which will allow us to create a pivot table
+- . 
 ![EA33822B-594E-45BD-A045-9A09A61C39CC](https://user-images.githubusercontent.com/112785655/216193758-4f9de9a1-5c0d-4eb0-b59b-4fe7f9349da1.jpeg)
 
 - Next I needed to create a pivot table with the 'date' as the index, the columns ='type', and values='fare' 
