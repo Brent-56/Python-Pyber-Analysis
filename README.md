@@ -44,4 +44,6 @@ function. After creating the pivot table we then need to create a new DataFrame 
 ![15E3728D-B8AE-43A5-A3D5-D95C5945D5E4](https://user-images.githubusercontent.com/112785655/216195422-17def36d-8cd3-4c13-9d0f-a7593e71cb47.jpeg)
 ![A1D90A4D-D1C5-4DF2-9A59-736115B6655C](https://user-images.githubusercontent.com/112785655/216196625-0967568b-8672-400a-a265-d27b51cdb4c7.jpeg)
 
+Smething I noticed here was the "date" index was not as tidy as it coudve been. With that being said I took the initiative to convert the index"date" datatype the datetime datatype. This is necessary so I can use the resample() method later in the code.
 
+![8AEC393F-4FB3-4FEC-9A2F-19FF5DE2EA86](https://user-images.githubusercontent.com/112785655/216199690-bc85c381-f7c6-48fe-a4cc-a28462b3cb20.jpeg)
