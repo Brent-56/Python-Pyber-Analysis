@@ -51,3 +51,7 @@ function. After creating the pivot table we then need to create a new DataFrame 
 After I made the datetimme conversion I could now use the resample function properly. I needed to create a new DataFrame using the "resample()" function by week 'W' and get the sum of the fares for each week. Results:
 ![E1EA401E-43CB-4848-8EE8-13C0A79F7617](https://user-images.githubusercontent.com/112785655/216204512-77c8956c-fb76-4a50-aa34-b24eaf46b4d5.jpeg)
 
+Finally I transitioned into the visualization element. The goal in this scenario is to create a chart that displays the total fares by city type. First and foremost I went in and imported my dependencies which in this case is "from matplotlib import style". Secondly I stated the actual style type ("fivethirtyeight"). After the style was set I made sure to go in and format graph properties which entails specifying plt.title,  plt.ylabel,
+plt.xlabel, and plt.grid. Lastly I specified details on the chart legend. The final results is as follows.
+
+![10ABDD80-AD8C-4B44-A8B1-EBEAC4AC7471](https://user-images.githubusercontent.com/112785655/216672783-b4727525-5e9d-4263-94fb-035d2505ab09.jpeg)
